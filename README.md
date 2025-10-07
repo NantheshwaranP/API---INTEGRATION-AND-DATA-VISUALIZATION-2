@@ -24,6 +24,9 @@
 
 #output of task 3
 
+<img width="1386" height="133" alt="Image" src="https://github.com/user-attachments/assets/556114bd-3425-4692-ad7d-69d1456651df" />
+
+
 
 
 
