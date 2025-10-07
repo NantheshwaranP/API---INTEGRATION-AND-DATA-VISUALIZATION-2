@@ -18,4 +18,12 @@
 <img width="1352" height="288" alt="Image" src="https://github.com/user-attachments/assets/6bd06a1a-57f2-4158-a755-d093cf9ca50d" />
 <img width="1387" height="365" alt="Image" src="https://github.com/user-attachments/assets/cd46d054-8625-4844-91fd-2d8864ba46bc" />
 
+#output of task 2
+
+![Image](https://github.com/user-attachments/assets/b283d4e0-09a8-4dd5-adf7-6e186abf5935)
+
+#output of task 3
+
+
+
 
